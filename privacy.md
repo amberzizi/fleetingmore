@@ -14,3 +14,9 @@
 4. 联系方式
 如对隐私政策有任何疑问，可通过以下方式联系：
 taskplan20220720@yeah.net
+
+The app "Fleeting More" respects and protects the personal privacy of all users.
+Information CollectionThe app does not actively collect personal identity information, location data, contacts, photos, or other private data from users.All content created and saved by users is stored only on the user’s local device.
+Data UsageUser data is used solely for in-app display and management. It will not be uploaded to the developer’s server, nor shared, sold, or disclosed to any third party.
+Information SecurityThe app uses local secure storage for sensitive user data to protect information security to the fullest extent possible.
+Contact InformationIf you have any questions about this Privacy Policy, please contact us at:taskplan20220720@yeah.net
